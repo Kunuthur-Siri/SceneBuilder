@@ -10,6 +10,8 @@ FXML CODE
 <?import javafx.scene.control.Button?>
 <?import javafx.scene.control.Label?>
 
+//hi
+
 <GridPane fx:id="GameBoard" alignment="center" hgap="10" prefHeight="242.0" prefWidth="472.0" vgap="10" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.connect4Controller">
     <rowConstraints>
         <RowConstraints minHeight="10.0" prefHeight="30.0" />
